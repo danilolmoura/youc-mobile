@@ -1,6 +1,6 @@
 # youc_mobile
 
-A new Flutter project.
+Repository for the mobile version os YouC
 
 ## Getting Started
 
